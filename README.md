@@ -1,5 +1,3 @@
-# GreenThumb
-
 ![alt text](https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png)
 
 ## [Link to Documents](https://aarone314.github.io/CP317-Project-Green-Thumb/)
