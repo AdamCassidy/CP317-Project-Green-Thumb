@@ -1,4 +1,4 @@
-![alt text](https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png)
+# GreenThumb
 
 ## [Link to Documents](https://aarone314.github.io/CP317-Project-Green-Thumb/)
 
