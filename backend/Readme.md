@@ -1,4 +1,5 @@
 # Backend README
+<img src="https://github.com/AdamCassidy/GreenThumb/blob/master/resources/logo.png" alt="logo" width="300"/>
 
 ## [Link to Documents](https://aarone314.github.io/CP317-Project-Green-Thumb/)
 
