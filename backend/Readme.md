@@ -2,11 +2,6 @@
 
 ## [Link to Documents](https://aarone314.github.io/CP317-Project-Green-Thumb/)
 
-## Installing Dependencies
-After pulling the branch, make sure to do ```npm i``` so that your local node_modules/ folder is up-to-date. Otherwise, there may be missing dependencies that prevent the code from executing.
-
-To add a new dependency, use ```npm i {name}```.
-
 ## Running the API
 To run the API:
 1. Run api.js.
