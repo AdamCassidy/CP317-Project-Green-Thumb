@@ -2,6 +2,7 @@
 
 ## [Link to Documents](https://aarone314.github.io/CP317-Project-Green-Thumb/)
 
+# Demo
 ## Running the API
 To run the API:
 1. Run api.js.
