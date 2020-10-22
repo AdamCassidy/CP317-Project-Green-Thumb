@@ -19,6 +19,10 @@ To send a request to the API (for testing purposes):
 5. Make the request.
 6. Check that the request returned the expected body.
 
+</br>
+</br>
+
+
 ## Branch Structure
 
 The branches go as follows,
